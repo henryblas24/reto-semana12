@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    width: 25%;
+    
+}
+
+.dropdown-menu {
+    height: 0;
+    overflow: hidden;
+
+    
+}
+.item1 {
+    list-style: none;
+    text-align: left;
+
+}
+
+.altura {
+    height: 100px;
+}
